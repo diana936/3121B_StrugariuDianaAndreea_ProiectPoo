@@ -1,5 +1,3 @@
 # Cinema Booking System
-Un sistem de rezervări pentru cinematograf realizat în C++.
-- Căutare live de filme din fișier extern.
-- Hartă interactivă a sălii.
-- Validare automată a locurilor.
+Acest program poate fi rulat in Linux, utilizand Ubuntu, sau Windows, utilizand Visual Studio 2022
+El reprezinta un sistem complex de rezervari de filme la un cinematograf.
