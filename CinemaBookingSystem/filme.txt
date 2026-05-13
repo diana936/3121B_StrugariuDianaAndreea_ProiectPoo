@@ -1,0 +1,100 @@
+The Shawshank Redemption,0,25.0
+The Godfather,0,30.0
+The Dark Knight,1,35.0
+The Godfather Part II,0,30.0
+12 Angry Men,0,20.0
+Schindler's List,0,25.0
+The Lord of the Rings: The Return of the King,1,40.0
+Pulp Fiction,0,28.0
+The Lord of the Rings: The Fellowship of the Ring,1,38.0
+Il Buono il Brutto il Cattivo,0,22.0
+Forrest Gump,0,25.0
+Fight Club,0,26.0
+The Lord of the Rings: The Two Towers,1,38.0
+Inception,1,35.0
+Star Wars: Episode V - The Empire Strikes Back,1,32.0
+The Matrix,1,30.0
+GoodFellas,0,28.0
+One Flew Over the Cuckoo's Nest,0,22.0
+Se7en,0,25.0
+It's a Wonderful Life,0,20.0
+Seven Samurai,0,24.0
+The Silence of the Lambs,0,26.0
+Saving Private Ryan,0,28.0
+City of God,0,24.0
+Life Is Beautiful,0,22.0
+The Green Mile,0,25.0
+Star Wars: Episode IV - A New Hope,1,30.0
+Interstellar,1,35.0
+Terminator 2: Judgment Day,1,30.0
+Back to the Future,0,25.0
+Spirited Away,0,22.0
+The Pianist,0,25.0
+Psycho,0,20.0
+Parasite,0,28.0
+Leon: The Professional,0,26.0
+The Lion King,1,25.0
+Gladiator,0,28.0
+American History X,0,24.0
+The Departed,0,28.0
+The Usual Suspects,0,25.0
+The Prestige,0,28.0
+Casablanca,0,20.0
+Whiplash,0,26.0
+The Intouchables,0,24.0
+Modern Times,0,18.0
+Once Upon a Time in the West,0,22.0
+Hara-Kiri,0,20.0
+Grave of the Fireflies,0,22.0
+Rear Window,0,20.0
+Alien,1,28.0
+City Lights,0,18.0
+Memento,0,26.0
+Apocalypse Now,0,28.0
+Raiders of the Lost Ark,0,25.0
+Django Unchained,0,30.0
+WALL-E,1,25.0
+The Lives of Others,0,24.0
+Sunset Blvd.,0,20.0
+Paths of Glory,0,20.0
+The Shining,0,25.0
+The Great Dictator,0,18.0
+Witness for the Prosecution,0,22.0
+Avengers: Infinity War,1,35.0
+Aliens,1,28.0
+American Beauty,0,24.0
+Dr. Strangelove,0,20.0
+Spider-Man: Into the Spider-Verse,1,28.0
+The Dark Knight Rises,1,35.0
+Oldboy,0,26.0
+Joker,0,30.0
+Amadeus,0,22.0
+Toy Story,1,22.0
+Coco,1,25.0
+Inglourious Basterds,0,30.0
+The Boat,0,24.0
+Avengers: Endgame,1,38.0
+Princess Mononoke,0,22.0
+Good Will Hunting,0,24.0
+Once Upon a Time in America,0,28.0
+Requiem for a Dream,0,25.0
+Toy Story 3,1,25.0
+Your Name.,0,22.0
+Singin' in the Rain,0,20.0
+Eternal Sunshine of the Spotless Mind,0,26.0
+Star Wars: Episode VI - Return of the Jedi,1,30.0
+Braveheart,0,28.0
+Reservoir Dogs,0,26.0
+Full Metal Jacket,0,25.0
+Hunt for the Wilderpeople,0,22.0
+Citizen Kane,0,20.0
+Lawrence of Arabia,0,25.0
+North by Northwest,0,20.0
+Vertigo,0,20.0
+Amelie,0,22.0
+A Clockwork Orange,0,25.0
+The Apartment,0,20.0
+Double Indemnity,0,20.0
+Taxi Driver,0,25.0
+The Kid,0,15.0
+Snatch,0,24.0

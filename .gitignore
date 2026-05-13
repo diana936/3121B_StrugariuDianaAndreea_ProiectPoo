@@ -1,0 +1,12 @@
+# Visual Studio temporary files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.pdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate

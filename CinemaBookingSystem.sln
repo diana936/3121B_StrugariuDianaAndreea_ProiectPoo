@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CinemaBookingSystem", "CinemaBookingSystem\CinemaBookingSystem.vcxproj", "{E90AA113-B33E-4597-B732-91097B88C8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Debug|x64.ActiveCfg = Debug|x64
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Debug|x64.Build.0 = Debug|x64
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Debug|x86.Build.0 = Debug|Win32
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Release|x64.ActiveCfg = Release|x64
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Release|x64.Build.0 = Release|x64
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Release|x86.ActiveCfg = Release|Win32
+		{E90AA113-B33E-4597-B732-91097B88C8D4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1B757A-9D7D-447F-9C06-02C123B1AD06}
+	EndGlobalSection
+EndGlobal
